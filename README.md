@@ -1,6 +1,6 @@
 # Projeto AP1 - Ciência de Dados
 
-Este repositório contém a entrega do Projeto 2 da AP1 da disciplina de Ciência de Dados 2.
+Este repositório contém a entrega do Projeto da AP1 de Ciência de Dados 2.
 
 
 ## Objetivo
