@@ -1,0 +1,27 @@
+[
+    {
+        "aluno_id": 1,
+        "disciplina_id": 1,
+        "nota": 8.5
+    },
+    {
+        "aluno_id": 2,
+        "disciplina_id": 1,
+        "nota": 7.2
+    },
+    {
+        "aluno_id": 3,
+        "disciplina_id": 2,
+        "nota": 9.1
+    },
+    {
+        "aluno_id": 4,
+        "disciplina_id": 2,
+        "nota": 6.8
+    },
+    {
+        "aluno_id": 5,
+        "disciplina_id": 3,
+        "nota": 7.9
+    }
+]
