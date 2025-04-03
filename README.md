@@ -5,8 +5,6 @@ Este repositório contém a entrega do Projeto da AP1 de Ciência de Dados 2.
 
 ## Objetivo
 
-Realizar análise de dados e web scraping para coleta, tratamento e visualização de informações relevantes.
-
 O projeto é dividido em:
 
 - webScraping: Código responsável por coletar dados da web.
